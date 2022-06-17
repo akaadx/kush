@@ -1,0 +1,66 @@
+
+.button_1{
+  border-radius:25px;
+  height:35px;
+  background:gold;
+  border:2;
+  padding-left: 20px;
+  padding-right:20px;
+  color:black;
+}
+
+*{direction:rtl;} 
+	
+	b {
+   Color:gold;
+              font-style:normal;
+              }
+              
+			 	.kush {
+						 				color:gold;
+						  			text-align:center;
+						  		  font-family:"times new roman",
+						  			"tohoma"; 
+						 			 font-size:16px;
+						 			 } 
+						 
+						 	 		  a:visited{color:#c5ff15;}	
+						  a:link{decoration:none;color:gold;} 		
+.plyeimge{
+						    border-radius:25px;
+						  		position:absolute;
+						  		left:8px; top:51px;
+						  }
+						  
+						 .form_border{	  
+						       border-radius:25px;							      					  				                     border-style:solid;
+						  				border-color:gold;
+						  				padding:5px;
+						  				
+						  }
+						 .tborder{
+						 				botder-style:solid;
+						 				border-color:gold;
+						 				color:gold;
+						 }
+						 .iborder{
+						    
+						     border-radius:25px;
+						     opacity:1.0;
+						 				botder-style:solid;
+						 				border-color:gold;
+						 }
+.span{
+				color:rgb(243, 149, 193);
+}
+body
+{background-color:rgb(241, 13, 13);}
+
+.incol{
+
+				border-radius:25px;
+						     opacity:1.0;
+						 				botder-style:solid;
+						 				border-color:gold;
+						 				background-color:black;
+}
